@@ -1,0 +1,221 @@
+html{
+    background-color: #0dcaf0;
+}
+.Titulo1{
+    text-align: center;
+    color: white;
+}
+
+.menu{
+    list-style: none;
+    margin: 2rem 1.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: #dc3545;
+
+}
+li{
+    font-size: 12;
+    font-weight: bold;
+    margin: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+ .menu a:hover{
+    color: white;
+}
+/*.navegador{
+    list-style: none;
+    margin: 1%;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}*/
+
+.titulo2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+}
+.titulo3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+    color: white;
+}
+
+.titulo4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 45px;
+}
+.contenedor1{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color:  #6f42c1;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.contenedor2{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color: #198754;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white
+}
+
+.contenedor3{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color: #61cc57;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.tipos{
+    list-style: none;
+}
+.App{
+    list-style: none;
+    color: white;
+    margin: 2rem 1.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: #fd7e14;
+}
+
+.item1{
+    color: white;
+}
+
+.contenedor5{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color: #fd7e14;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.contenedor6{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color: #fd7e14;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.contenedor7{
+    margin-top: 12%;
+    margin-left: 4%;
+    border: 3px solid black;
+    border-radius: 15px;
+    height: fit-content;
+    display: block;
+    text-align: center;
+    background-color: #fd7e14;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.hijo4{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: white;   
+}
+
+
+
+header{
+    padding: 20px 0;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+form{
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 1);
+    width: 300px;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+form input{
+    background-color: rgb(224, 224, 224);
+    display: block;
+    border: none;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 15px;
+}
+
+button{
+    background-color: #64559c;
+    display: block;
+    border: none;
+    padding: 10px;
+    margin: 20px auto;
+    width: 170px;
+    border-radius: 15px;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 700;
+}
+
+.tituloForm{
+    text-align: center;
+}
+
+#Error{
+    text-align: center;
+    color: red;
+}
+
+#Ingresar{
+    text-align: center;
+    color: white;
+}
+
+#img{
+    text-align: center;
+}
